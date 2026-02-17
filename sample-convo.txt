@@ -1,0 +1,8 @@
+You: hi
+Bot: Hello! How can I help you today?
+
+You: veg food
+Bot: You can try Veg Pizza, Paneer Burger, or Fresh Salad.
+
+You: tips
+Bot: Tip: Pair pasta with fresh juice or lemonade!
